@@ -1,0 +1,12 @@
+body {
+    background-color: #1d1e22;
+    color: white;
+    display: flex;
+    background-size: cover;
+    height: 100vh;
+
+}
+.container {
+    margin: auto;
+    text-align: center;
+}
